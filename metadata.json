@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Service Comparison",
+  "description": "Compare hospital prices for medical tests (X-Ray, MRI, blood tests) near you, book slots with payment simulation, see ratings, distance, and predict wait times.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
